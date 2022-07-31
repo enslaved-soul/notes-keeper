@@ -1,6 +1,6 @@
 # React Keeper App 
 
-![img](https://github.com/enslaved-soul/notes-keeper/blob/master/img/keepr.jpg)
+![img](https://github.com/enslaved-soul/notes-keeper/master/img/keepr.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
